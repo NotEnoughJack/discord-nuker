@@ -1,6 +1,7 @@
 # Discord "Kill Command" Bot (for Testing Purposes Only)
 
 > ⚠️ **Disclaimer**: This bot is for **educational/testing purposes only** and should only be used in **your own servers** with appropriate permissions. Misuse of Discord bots to harm, disrupt, or spam other servers violates [Discord's Terms of Service](https://discord.com/terms) and may result in account or bot suspension.
+# Please star the repo, it helps
 
 ## 📋 What It Does
 
